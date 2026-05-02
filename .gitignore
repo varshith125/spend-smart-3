@@ -1,0 +1,15 @@
+node_modules/
+*.log
+.env
+
+# Log files from dev testing
+*.err
+*.out
+
+# Debug/test scripts
+server/test_supabase.js
+server/test_api.js
+
+# Build output
+dist/
+build/
